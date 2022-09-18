@@ -1,0 +1,64 @@
+html,
+ body {
+  Background: #AC9FBB;
+  Font-family: Helvetica, arial, sans-serif;
+  font-size: 16px;
+  color: #59656F;
+}
+#headshot img{width: 50%
+height }
+
+  p {
+  font-size; 1em
+  line-height: 1.4em
+  margin-bottom: 20px
+  color: #59656F
+}
+
+#cv {
+  width: 90%
+  max-width: 800px
+
+}
+
+.sectionContent img {
+  border: 2ps solid #DDBDD5
+}
+
+#name h2 {
+  font-size: 2em;
+  margin-left: 2px;
+  font-family: "Rokkitt"
+}
+
+#mainArea { padding: 0 40 px;}
+
+#mainDetails{
+  padding:25px 35px;
+  border-bottom: 2px solid #DDBDD5
+  background:#8E9AA4
+}
+
+  #container {
+  width: 90%
+  max-width: 800px;
+  background: #F7EBEC
+  margin: 30px auto;
+  padding: 30px;
+  }
+
+  Section {
+  border-top: 1px solid #
+  padding: 20px 0 0;
+  }
+section: first-child {border top:0; }
+
+section:last-child { padding: 20px 0 10px}
+
+>sectionTitle h1
+font-family: Helvetica, Arial, Sans-serif;
+font-style: italic;
+font-size: 1.5em
+font-color: #59656F
+
+<link type="text/css" rel="stylesheet" href="style.css">
